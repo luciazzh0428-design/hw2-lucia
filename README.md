@@ -20,3 +20,6 @@ This task is repetitive and time-consuming. Automating first drafts can:
 
 ## 6. Why this matters
 Customer support quality directly affects customer satisfaction and brand reputation. A good first draft can significantly improve efficiency while maintaining quality.
+
+## 7. Video Link
+https://youtu.be/IZJcjSEYicw
